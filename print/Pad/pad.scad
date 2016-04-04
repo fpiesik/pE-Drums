@@ -1,8 +1,8 @@
 $fn=64;
 dia=180;
 height=33.5;
-wthick= 8;
-bthick= 8;
+wthick= 6;
+bthick= 6;
 mthick=2;
 rodDist=30;
 rodDia=6;
@@ -11,7 +11,7 @@ socketDia=29;
 socketH=rodDia;
 triggerDia=35;
 triggerBoltDia=6.3;
-triggerNutDia=12;
+triggerNutDia=11.6;
 cableDia=4;
 
 difference(){
